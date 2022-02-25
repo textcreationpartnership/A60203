@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sick popes last will and testament with his several legacies left to his dear children the Jesuits and others</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60203</idno>
+            <idno type="STC">Wing S3749</idno>
+            <idno type="STC">ESTC R11891</idno>
+            <idno type="EEBO-CITATION">11910680</idno>
+            <idno type="OCLC">ocm 11910680</idno>
+            <idno type="VID">50817</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60203)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50817)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 512:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sick popes last will and testament with his several legacies left to his dear children the Jesuits and others</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Signed: The fisher.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50817:1"/>
+            <pb n="1" facs="tcp:50817:1" rendition="simple:additions"/>
+            <head>The Sick POPES <hi>Laſt VVill and Teſtament,</hi> WITH His ſeveral Legacies left to his dear Children the Jeſuits and others.</head>
+            <p>BEing very craſie in Body, but extreme ſick in Mind, and ſorely ſhaken with the Feaver of Envy for the late Miſcarriages of our holy Deſigns in <hi>England,</hi> for the ſubverting the Government and Religion there; and finding by the ſeveral evil Symptoms, as blaſphemous Belchings, deſperate Ravings, idle Railings, frequent Curſings, filthy Spuings, Blaſts of Excommunications, and many other the like Signs, that I am not far from my End: I do therefore thus ordain, conſtitute, and make this my laſt Will and Teſtament in order and form following.</p>
+            <p>
+               <hi>Imprimis,</hi> I do bequeath my Soul to him that has moſt right to it, whether God or the Devil; but ſince the later has been much my Friend upon ſeveral occaſions, and that I knew him beſt, on condition he will give me the Supremacy in his Kingdom, I ſhall bequeath it to him.</p>
+            <p>
+               <hi>Item,</hi> As for my Body, I order it to be buried with the uſual Pomp and Ceremonies, and that there be given a Plenary Indulgence to him who ſhall write my Epitaph.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath to my next Succeſſor all my Spiritual Pride, and to maintain it all S. <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eters</hi> Patrimony, witlpall the Incomes, Tithes, Benefits, Profits, and Emoluments, made and received by Sacrilege, Per<g ref="char:EOLhyphen"/>jury, Simony, Lying, Whoring, Murder, and the like, in as full and am<g ref="char:EOLhyphen"/>ple manner as was poſſeſſed by any of my Predeceſſors. As alſo the Bene<g ref="char:EOLhyphen"/>fits and Profits accruing by Indulgences, Pardons, and falſe Miracles, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ous Frauds, and holy Cheats, throughout my Juriſdiction.</p>
+            <pb n="2" facs="tcp:50817:2"/>
+            <p>
+               <hi>Item,</hi> I will and bequeath to my moſt Catholick Son a large Pair of Aſſes Ears, a large Pack Saddle fitted for his Back, with a great Bridle and Cavalon fitted for his Head and Mouth, on condition that my Suc<g ref="char:EOLhyphen"/>ceſſor may ride him, as I and my Predeceſſors have done.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath to the Lords of the Inquiſition a Cheſt of Cruelty, ten Boxes of Perſecution, a Book called the Art of Tormenting, the Powder of the Hearts of Tygers to be taken before they examine their Priſoners, and for a Cordial a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ottle of the Bloud of Ma<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yrs.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath unto all my Cardinals ſeven precious <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hi<g ref="char:EOLhyphen"/>als of the ſeven deadly Sins, with a large Box of Luxury another of Sodo<g ref="char:EOLhyphen"/>my, and a third of Buggery.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath to the Franciſcans ſix Fardels of Hypocri<g ref="char:EOLhyphen"/>ſie, and ſeven Cheſts of Franciſcan Lies.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath to the Dominican Friers the Hiſtory of <hi>Jetzer,</hi> ſeven Trunks of Verboſity, and two of Backbiting.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath to the Capuchines one Boxful of Deceits, and three of formal Auſterities.</p>
+            <p>
+               <hi>Item,</hi> I bequeath among the Nunneries 7000 Cheſts of Concupi<g ref="char:EOLhyphen"/>ſcence.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath among the Friers and Secular Prieſts as many Vats of Luſt, and 15000 Dollers to pay off Surgeons and Apothe<g ref="char:EOLhyphen"/>caries Bills for curing of the Venereal Diſeaſe.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath to all the Hoſpitals and Priſons within my Juriſdiction, for the Relief of the ſick and poor Priſoners Three Half-pence.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath to my moſt Chriſtian Son a Sword to cut off the Hugonots, and a Halter to hang himſelf, after he has miſcarried in his Deſigns of becoming the General Monarch, and placing S. <hi>Peters</hi> Chair in <hi>Paris.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I will and bequeath <hi>England, Ireland,</hi> and <hi>Scotland</hi> to him that can take them from the right Owner.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath all the Kingdoms of all Heretical Princes to the Catholicks that can take them from them, and a tenth part of every ſuch Kingdom ſo conquered to the Jeſuits.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath the King of <hi>Portugal</hi> an Iron Yoak, to wear at my Succeſſors will and pleaſure.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath to the Emperour, ſo long as he ſhall conti<g ref="char:EOLhyphen"/>nue to perſecute the Proteſtants, two Cheſts of <hi>Agnus Dei's,</hi> ſeven conſe<g ref="char:EOLhyphen"/>crated Roſes, two Chryſtal Crucifixes, and another of Gold, with holy Reliques, Trinkets, Gewgaws, Veſts, Copes, Caps, Tippets, Rotchets, and other things, for him to diſpoſe of as he ſhall think good among the Electors.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath all the <hi>Hollanders</hi> to the Devil, and their Lands for the keeping of my Succeſſors Hogs.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath a Cheſt of Money to the King of <hi>Poland</hi> to fight againſt the <hi>Turk,</hi> that he may not think of moleſting my Suc<g ref="char:EOLhyphen"/>ceſſors.</p>
+            <pb n="3" facs="tcp:50817:2"/>
+            <p>
+               <hi>Item,</hi> I will and bequeath the City of <hi>Geneva</hi> for a place to make a common Stews, and leave the Begging Friers Overſeers of the Work, and to be Stipendary Pimps throughout the World.</p>
+            <p>
+               <hi>Item,</hi> To all the Poor Whores in <hi>Rome</hi> I give 6000 Crowns, and to all the Rich as many Indulgences.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath to my dear Sons the Jeſuits, whom I make Overſeers of this my laſt Will and Teſtament, <hi>Machiavils</hi> Book fairly Gilt, one large Box of Cunning, another of Policy, three of Deceit, ſeven complete Fardels of Perjury, Lying, Cozenage, and other pretious ſtuff; ſeven Vats full of Worldly Greatneſs and outward Pomp; ten Cheſts of Impudence, and as many of Inſinuation; one of ſeeming Purity and Sanctity, one of Murthers; alſo a Book called the Art of Conjuration, a Cheſt full of Sanctified Daggers, and a Cabbinet of Mother of Pearl today up their Morals in; two Cheſts of exquiſite Poyſons, and five of Poyſon<g ref="char:EOLhyphen"/>ous Doctrine.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath ſeven hundred thouſand Crowns to be gi<g ref="char:EOLhyphen"/>ven to Private Secretaries, that ſhall advance or promote our holy Cauſe, now almoſt at the laſt Gaſp, by writing Verſes, Poems, Ballads, Dia<g ref="char:EOLhyphen"/>logues, Lampoons, Satyrs, Remonſtrances, Diſcourſes, Letters, Books, or Pamphlets, and ſuch like; and to be diſpoſed of by my dear and faithful Sons the Jeſuits.</p>
+            <p>
+               <hi>Item,</hi> I further bequeath to thoſe my dear Children a precious Box of <hi>Spaniſh</hi> Cruelty, another of <hi>Mooriſh</hi> Treachery, a third of Helliſh Con<g ref="char:EOLhyphen"/>ſpiracy, a fourth of <hi>Turkiſh</hi> Tyranny, as a Surpluſage for a Teſtification of my Gratitude and Good will for all the Service they have done the Holy See, and to encourage them for the future to aſſiſt my Succeſſors.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath to my Natural Nephews all the reſt of my Worldly Goods, to be equally divided amongſt them.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath an Annual Stipend of Two thouſand Crowns, to be employed for the Expunging ſeveral places of Scriptures, that point me to be Antichriſt, and the Whore of <hi>Babylon,</hi> and ſeveral others that declare the Fall and Overthrow of our Power and Juriſ<g ref="char:EOLhyphen"/>diction.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath the like Stipend to him or them who ſhall invent new <hi>Anathema's,</hi> Curſes, Plots, and Conſpiracies againſt all Here<g ref="char:EOLhyphen"/>ticks, eſpecially thoſe of <hi>Great Britain</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I will and bequeath for the writing the Lives and Acts of all the good Popes ſince <hi>Gregory</hi> Biſhop onely of <hi>Rome,</hi> and not Univerſal Bi<g ref="char:EOLhyphen"/>ſhop, ſeven Farthings, becauſe the Work will be ſmall.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath for the writing the Lives and Acts of all the bad Popes ſince that time ſeven thouſand Crowns, becauſe the Work will be great.</p>
+            <p>
+               <hi>Item,</hi> I will and bequeath an Annual Stipend, to be given at the diſcretion of my dear Sons the Jeſuits, the Overſeers of this my laſt Will and Teſtament, for the writing the Holy Life of Pope <hi>Alexander,</hi> and his good Nephew <hi>Caeſar Borgia,</hi> for a Patern of Romiſh Goodneſs and Policy.</p>
+            <pb n="4" facs="tcp:50817:3"/>
+            <p>
+               <hi>Item,</hi> Becauſe my good and faithful Friend the Devil, whoſe Kind<g ref="char:EOLhyphen"/>neſs I cannot but acknowledge in many things, though he miſcarried in the late Conſpiracy in <hi>England,</hi> ſhould not be forgot, I will and bequeath him Soul and Body of all thoſe that ſhall call me Antichriſt, or Whore of <hi>Babylon,</hi> or that ſhall write againſt me, and my holy Sons the Jeſuits, and of thoſe who ſhall make Plays of any of our Predeceſſors, or ſhall write or ſpeak Prophecies of our Downfall and Overthrow, as I have full Power and Authority to do.</p>
+            <p>Laſtly, Lorder, conſtitute, and appoint my ſaid old Friend, Privy Counſellor and Secretary to my Succeſſors, and to manage the buſineſs of State Policy with the General Procurator of the Jeſuits in a private Ca<g ref="char:EOLhyphen"/>bal. And I further confirm, ratifie, and allow, all Privileges, Grants, and Emoluments, granted and given to my dear Sons the Jeſuits, and deſire them to ſee this my Laſt Will and Teſtament fully and wholly per<g ref="char:EOLhyphen"/>form'd, as witneſs my Hand and Seal.</p>
+            <closer>
+               <signed>
+                  <hi>Signed with the Seal of</hi> THE FISHER.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="epitaph">
+            <head>The Popes Epitaph.</head>
+            <lg>
+               <l>HEre lies an Old Man who would be a God,</l>
+               <l>Whoſe Pride on the Neck of an Emperour trod;</l>
+               <l>Whoſe Will was a Law, whoſe Luſt was a Rule:</l>
+               <l>
+                  <hi>[Infallible]</hi> though an Ideot or Fool:</l>
+               <l>Could Kings Excommunicate ſoon in a breath,</l>
+               <l>Yet could not keep off the great Tyrant <hi>Death;</hi>
+               </l>
+               <l>Who (proud as he was) aſſaulted his Throne,</l>
+               <l>And thruſt the <hi>[Infallible]</hi> under this Stone;</l>
+               <l>Who can by this time <hi>Infallibly</hi> tell,</l>
+               <l>How many proud Popes are humbl'd in Hell.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
